@@ -1,0 +1,21 @@
+
+===== Carrera del Mon Nov 10 14:27:50 2025
+jacel (pos: 21)
+ale (pos: 30)
+keyy (pos: 27)
+pipe (pos: 23)
+--------------------------
+
+===== Carrera del Mon Nov 10 14:28:25 2025
+jacel (pos: 23)
+ale (pos: 35)
+keyy (pos: 30)
+pipe (pos: 26)
+--------------------------
+
+===== Carrera del Mon Nov 10 14:28:58 2025
+jacel (pos: 27)
+ale (pos: 39)
+keyy (pos: 33)
+pipe (pos: 30)
+--------------------------
